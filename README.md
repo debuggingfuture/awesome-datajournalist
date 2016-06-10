@@ -1,5 +1,5 @@
 # awesome-datajournalist
-Links to Toolbox and Resources a hands on Data Journalist will need
+Links to Toolbox, Resources a hands on Data Journalist will need, and also open source codebase examples
 If you're intersted -- [awesome-dataviz](https://github.com/fasouto/awesome-dataviz) + [awesome-datascience](https://github.com/okulbilisim/awesome-datascience)
 
 ## Brewing..
