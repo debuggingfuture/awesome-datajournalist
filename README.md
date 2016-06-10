@@ -6,6 +6,7 @@ If you're intersted -- [awesome-dataviz](https://github.com/fasouto/awesome-data
 - This repo just get started (Jun2016) looking forward for contribution
 
 ## Table of Contents
+- [Open Source Journalism Sites](OSS_sites.md)
 - Converting PDFs
 
 ### Extracting Data from PDFs
